@@ -1,0 +1,21 @@
+Script started on Fri 28 Mar 2014 04:41:58 PM EDT
+[n00862133@osprey cop2220]$ ./a.out
+
+Please input how many numbers you want to calculate the average of.
+Note that only positive numbers will be calculated.
+-1
+-1
+
+The integer you input is invalid. Please input an integer of 1 or more.3
+
+The integer you input is invalid. Please input an integer of 1 or more.3
+
+Please input the next number.
+Please input the next number.2
+
+Please input the next number.1
+
+
+The average of your numbers is 2.000000[n00862133@osprey cop2220]$ exit
+
+Script done on Fri 28 Mar 2014 04:42:37 PM EDT

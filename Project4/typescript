@@ -1,0 +1,11 @@
+Script started on Mon 03 Mar 2014 09:53:23 AM EST
+[n00862133@osprey cop2220]$ ./a.out
+
+Please input the coefficients of the function ax^2 + bx + c in the form nnn.nn nnn.nn nnn.nn
+1.00 5.00 6.00
+k
+
+The roots of the equation are -2.00 and -3.00.
+[n00862133@osprey cop2220]$ exit
+
+Script done on Mon 03 Mar 2014 09:53:54 AM EST

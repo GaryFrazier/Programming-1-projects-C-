@@ -1,0 +1,20 @@
+Script started on Fri 28 Mar 2014 06:41:14 PM EDT
+[n00862133@osprey cop2220]$ ./a.out
+
+Input an integer, x
+3
+3
+
+Input the size of the array you want.
+3
+please input the next integer in the array
+1
+please input the next integer in the array
+2
+please input the next integer in the array
+3
+
+true
+[n00862133@osprey cop2220]$ exit
+
+Script done on Fri 28 Mar 2014 06:41:27 PM EDT
